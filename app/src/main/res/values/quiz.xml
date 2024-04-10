@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Questions">
+        <item>Question 1 ???</item>
+        <item>Question 2 ???</item>
+        <item>Question 3 ???</item>
+        <item>Question 4 ???</item>
+        <item>Question 5 ???</item>
+    </string-array>
+
+    <string-array name="A_Options">
+        <item>Q1 Option A</item>
+        <item>Q2 Option A</item>
+        <item>Q3 Option A</item>
+        <item>Q4 Option A</item>
+        <item>Q5 Option A</item>
+    </string-array>
+
+    <string-array name="B_Options">
+        <item>Q1 Option B</item>
+        <item>Q2 Option B</item>
+        <item>Q3 Option B</item>
+        <item>Q4 Option B</item>
+        <item>Q5 Option B</item>
+    </string-array>
+
+    <string-array name="C_Options">
+        <item>Q1 Option C</item>
+        <item>Q2 Option C</item>
+        <item>Q3 Option C</item>
+        <item>Q4 Option C</item>
+        <item>Q5 Option C</item>
+    </string-array>
+
+    <integer-array name="Answers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+
+</resources>
+
