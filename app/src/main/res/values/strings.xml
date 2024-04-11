@@ -3,4 +3,11 @@
     <string name="title">SIT 305 Quiz App!</string>
     <string name="name_prompt">Enter your name:</string>
     <string name="button_start">Start</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_next">Next</string>
+    <string name="button_end">End Quiz</string>
+    <string name="congrats">Congratulations</string>
+    <string name="score_intro">Your score is…</string>
+    <string name="new_quiz">Start new quiz</string>
+    <string name="finish">Finish</string>
 </resources>

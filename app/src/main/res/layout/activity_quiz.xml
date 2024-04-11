@@ -132,7 +132,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="#DCDCDC"
-            android:text="Submit"
+            android:text="@string/button_submit"
             android:textColor="#000000"
             app:strokeColor="#000000"
             app:strokeWidth="1pt" />
